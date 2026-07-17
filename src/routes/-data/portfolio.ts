@@ -18,7 +18,7 @@ type ExperienceEntry = {
 
 type SkillChip = { name: string; highlight?: boolean };
 
-export const RESUME_URL = "https://resume.suriya.xyz";
+export const RESUME_URL = "https://resume-xyz-main.vercel.app";
 
 /** Canonical site origin */
 export const SITE_ORIGIN = "https://suriya.xyz";
