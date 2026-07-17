@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "short_name": "surya.",
+  "name": "Kokkiligadda Surya Prakash — Portfolio · suriya.xyz",
+  "description": "Full-Stack & Systems Developer (Go, Rust, Node.js, Python). Portfolio, projects, and contact.",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0d0d0b",
+  "background_color": "#0d0d0b"
+}

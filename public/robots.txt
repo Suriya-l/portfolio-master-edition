@@ -1,0 +1,5 @@
+# suriya.xyz — Kokkiligadda Surya Prakash
+User-agent: *
+Allow: /
+
+Sitemap: https://suriya.xyz/sitemap.xml
