@@ -16,8 +16,7 @@ export function ContactSection() {
 							<em>my next role.</em>
 						</h2>
 						<div className="c-sub">
-							Backend &amp; Systems Developer. Based in Vijayawada (IST). 
-							Email is the fastest way to reach me.
+							SDE-1 backend, systems, distributed services. Based in Vijayawada (IST), open to relocating. Email is the fastest way to reach me.
 						</div>
 					</div>
 					<div className="cbox-r">

@@ -20,7 +20,7 @@ export function HeroSection() {
 					</div>
 					<div className="hero-meta-r">
 						<span className="hero-meta-dim">Status</span>
-						<span className="hero-meta-mark">Open to Backend &amp; Systems roles</span>
+						<span className="hero-meta-mark">OPEN TO SDE-1 BACKEND ROLES</span>
 					</div>
 				</div>
 
@@ -28,7 +28,7 @@ export function HeroSection() {
 					<div className="hero-tag">
 						<div className="hero-tag-line" />
 						<span className="hero-tag-text">
-							Backend &amp; Systems Developer · Vijayawada, India
+							Full-Stack &amp; Systems Developer . Vijayawada, India
 						</span>
 					</div>
 					<h1 className="hero-name">
