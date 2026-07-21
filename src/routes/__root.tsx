@@ -5,10 +5,10 @@ import { Analytics } from "@vercel/analytics/react";
 import { SITE_ORIGIN, SOCIALS } from "#/routes/-data/portfolio";
 import appCss from "../styles.css?url";
 
-const PAGE_TITLE = "Kokkiligadda Surya Prakash — Full-Stack & Systems Developer · suriya.xyz";
+const PAGE_TITLE = "Kokkiligadda Surya Prakash — Backend & Systems Developer · suriya.xyz";
 
 const PAGE_DESCRIPTION =
-	"Full-Stack & Systems Developer (Go, Rust, Node.js, Python). B.Tech in AI & ML · Vijayawada, India.";
+	"Backend & Systems Developer (Go, Rust, TypeScript). B.Tech in AI & ML · Vijayawada, India.";
 
 const CANONICAL = `${SITE_ORIGIN}/`;
 const OG_IMAGE = `${SITE_ORIGIN}/og.png`;
@@ -38,7 +38,7 @@ const seoJsonLd = {
 			alternateName: ["Suriya", "Surya"],
 			url: CANONICAL,
 			description: PAGE_DESCRIPTION,
-			jobTitle: "Full-Stack & Systems Developer",
+			jobTitle: "Backend & Systems Developer",
 			worksFor: {
 				"@type": "Organization",
 				name: "Dr. RVR NRI Institute of Technology",
@@ -103,7 +103,7 @@ export const Route = createRootRoute({
 			{ property: "og:image:height", content: OG_IMAGE_H },
 			{
 				property: "og:image:alt",
-				content: "Kokkiligadda Surya Prakash — Full-Stack & Systems Developer, suriya.xyz",
+				content: "Kokkiligadda Surya Prakash — Backend & Systems Developer, suriya.xyz",
 			},
 			{ property: "og:image:type", content: "image/png" },
 			{ name: "twitter:card", content: "summary_large_image" },
@@ -113,7 +113,7 @@ export const Route = createRootRoute({
 			{ name: "twitter:image", content: OG_IMAGE },
 			{
 				name: "twitter:image:alt",
-				content: "Kokkiligadda Surya Prakash — Full-Stack & Systems Developer, suriya.xyz",
+				content: "Kokkiligadda Surya Prakash — Backend & Systems Developer, suriya.xyz",
 			},
 		],
 		links: [

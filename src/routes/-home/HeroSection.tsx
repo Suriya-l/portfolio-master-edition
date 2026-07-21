@@ -20,7 +20,7 @@ export function HeroSection() {
 					</div>
 					<div className="hero-meta-r">
 						<span className="hero-meta-dim">Status</span>
-						<span className="hero-meta-mark">Open to Full-Stack &amp; Systems roles</span>
+						<span className="hero-meta-mark">Open to Backend &amp; Systems roles</span>
 					</div>
 				</div>
 
@@ -28,7 +28,7 @@ export function HeroSection() {
 					<div className="hero-tag">
 						<div className="hero-tag-line" />
 						<span className="hero-tag-text">
-							Full-Stack &amp; Systems Developer · Vijayawada, India
+							Backend &amp; Systems Developer · Vijayawada, India
 						</span>
 					</div>
 					<h1 className="hero-name">
@@ -51,10 +51,7 @@ export function HeroSection() {
 			<div className="hero-bottom">
 				<div className="hb-left">
 					<p className="hb-desc">
-						Full-stack and systems developer specializing in <strong>Go, Rust, Node.js, and Python</strong>. 
-						Currently pursuing a B.Tech in Artificial Intelligence &amp; Machine Learning and working 
-						as an R&amp;D Engineer. Experienced in building high-performance backend systems, tools, 
-						and integrating AI/ML models.
+						Backend developer in <strong>Go, Rust, and TypeScript</strong>. Spent the last year and a half working in security and penetration testing. Currently pursuing a B.Tech in Artificial Intelligence &amp; Machine Learning while working as an R&amp;D Engineer. Passionate about building high-performance backend systems, developer tools, and integrating AI/ML models.
 					</p>
 					<div className="hb-actions">
 						<a className="btn-s" href="#work">
